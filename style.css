@@ -1,0 +1,15 @@
+body
+{
+    text-align: center;
+    background-image: url(https://tse3.mm.bing.net/th?id=OIP.a90nKDoEfiNnzVNFqgX7bAAAAA&pid=Api&P=0&w=300&h=300)
+}
+#welcome {
+    color: #FFFFFF;
+    bottom: 0;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+<body style="background-image:url(IMG_5439.JPG)"
